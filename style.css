@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.background {
+    position: absolute;
+    width: 100%;
+    margin-top: -5%;
+}
+.logo {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 10%;
+    color: white;
+    font-weight: 900;
+    font-size: 2.2em;
+}
+.menu_element_0 {
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 60%;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
+    border-bottom: 2px solid white;
+}
+.menu_element_1 {
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 66%;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
+}
+.menu_element_2 {
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 72%;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
+}
+.menu_element_3 {
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 78%;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
+}
