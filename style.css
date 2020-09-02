@@ -9,7 +9,7 @@ body {
 }
 .logo {
     position: absolute;
-    margin-top: 2%;
+    margin-top: 1%;
     margin-left: 10%;
     color: white;
     font-weight: 900;
@@ -18,7 +18,7 @@ body {
 .menu_element_0 {
     position: absolute;
     margin-top: 1%;
-    margin-left: 60%;
+    margin-left: 50%;
     color: white;
     font-weight: 500;
     font-size: 1em;
@@ -27,7 +27,7 @@ body {
 .menu_element_1 {
     position: absolute;
     margin-top: 1%;
-    margin-left: 66%;
+    margin-left: 56%;
     color: white;
     font-weight: 500;
     font-size: 1em;
@@ -35,7 +35,7 @@ body {
 .menu_element_2 {
     position: absolute;
     margin-top: 1%;
-    margin-left: 72%;
+    margin-left: 62%;
     color: white;
     font-weight: 500;
     font-size: 1em;
@@ -43,8 +43,97 @@ body {
 .menu_element_3 {
     position: absolute;
     margin-top: 1%;
-    margin-left: 78%;
+    margin-left: 68%;
     color: white;
     font-weight: 500;
     font-size: 1em;
+}
+.article_element_0 {
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 80%;
+    color: #146ae3;
+    font-weight: 500;
+    font-size: 1.5em;
+    padding-left: 10px;
+    border-left: 3px solid #146ae3;
+}
+.article_element_1 {
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 80%;
+    color: #146ae3;
+    font-weight: 500;
+    font-size: 1.5em;
+    padding-left: 10px;
+    border-left: 0px solid #146ae3;
+}
+.article_element_2 {
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 80%;
+    color: #146ae3;
+    font-weight: 500;
+    font-size: 1.5em;
+    padding-left: 10px;
+    border-left: 0px solid #146ae3;
+}
+.article_title {
+    position: absolute;
+    margin-top: 23.5%;
+    margin-left: 8%;
+    font-weight: 600;
+    font-size: 1.7em;
+    color: #0249ad;
+}
+.article_text {
+    position: absolute;
+    margin-top: 27%;
+    margin-left: 7%;
+    width: 65%;
+}.search {
+    position: absolute;
+    margin-top: 0.5%;
+    margin-left: 75%;
+    width: 13%;
+    height: 3%;
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    padding: 4px;
+    padding-left: 12px;
+}
+.login_mail {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 17%;
+    width: 13%;
+    height: 3%;
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    padding: 4px;
+    padding-left: 12px;
+}
+.login_pass {
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 17%;
+    width: 13%;
+    height: 3%;
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    padding: 4px;
+    padding-left: 12px;
+}
+.login_enter {
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 22%;
+    width: 9%;
+    height: 3%;
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
 }
