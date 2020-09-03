@@ -2,6 +2,7 @@ body {
     margin: 0px;
     font-family: 'Roboto', sans-serif;
 }
+/* Header */
 .background {
     position: absolute;
     width: 100%;
@@ -15,6 +16,7 @@ body {
     font-weight: 900;
     font-size: 2.2em;
 }
+/* Menu */
 .menu_element_0 {
     position: absolute;
     margin-top: 1%;
@@ -48,6 +50,7 @@ body {
     font-weight: 500;
     font-size: 1em;
 }
+/* Article selector buttons */
 .article_element_0 {
     position: absolute;
     margin-top: 18%;
@@ -78,6 +81,7 @@ body {
     padding-left: 10px;
     border-left: 0px solid #146ae3;
 }
+/* Article content */
 .article_title {
     position: absolute;
     margin-top: 23.5%;
@@ -91,7 +95,9 @@ body {
     margin-top: 27%;
     margin-left: 7%;
     width: 65%;
-}.search {
+}
+/* Search bar */
+.search {
     position: absolute;
     margin-top: 0.5%;
     margin-left: 75%;
@@ -103,6 +109,7 @@ body {
     padding: 4px;
     padding-left: 12px;
 }
+/* Login form */
 .login_mail {
     position: absolute;
     margin-top: 10%;
@@ -137,6 +144,7 @@ body {
     border: 0px;
     border-radius: 10px;
 }
+/* Form elements */
 .form_element {
     width: 70%;
     height: 100%;
@@ -186,18 +194,7 @@ body {
     padding: 5px;
     background-color: #146ae3;
 }
-.contact_email {
-    position: absolute;
-    margin-top: 27%;
-    margin-left: 10%;
-    width: 13%;
-    height: 3%;
-    background-color: #ffffff;
-    border: 2px solid #146ae3;
-    border-radius: 10px;
-    padding: 4px;
-    padding-left: 12px;
-}
+/* Contact form */
 .contact_email {
     position: absolute;
     margin-top: 27%;

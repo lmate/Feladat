@@ -5,15 +5,20 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body onload='loaded(1)'>
+    <!-- Header -->
     <img class='background' src='bg.png'>
     <p class='logo'>Feladat</p>
+
+    <!-- Menu -->
     <p class='menu_element_0' onclick="navigate('index.php')">Home</p>
     <p class='menu_element_1' onclick="navigate('form.php')">Form</p>
     <p class='menu_element_2' onclick="navigate('about.php')">About</p>
     <p class='menu_element_3' onclick="navigate('contact.php')">Contact</p>
 
+    <!-- Table that contains the list of animals -->
     <table class='animal_container'>
         <tr>
+            <!-- Add animal input form -->
             <td><input type='text' class='form_element' placeholder='Name'></td>
             <td><input type='text' class='form_element' placeholder='Species'></td>
             <td><input type='text' class='form_element' placeholder='Age'></td>
