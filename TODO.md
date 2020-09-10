@@ -1,0 +1,16 @@
+# TODO szekció ami hirtelen eszembe jutott és itt is legyen meg
+- Video hivas gombra nyomasnal email a palinak akivel lesz a hivas
+- elmenteni admin userhez kivel van időpontja és azt az videohivas fülben megjeleníteni
+- új mentési rendszer implementálás html localstorage
+- valahogy a duplikált fájlt törölni ha törölni szeretné
+- dokumentáció oldal elkészítés
+- bizonyitek nem kell lakcimkartya, aznokmany, adokartya majd lesz helyette keretdoksi
+- lakcim bug manager_container!???
+- fluid navigáció oldalak között
+- regisztráció/bejelentkezés oldalon ne legyen návigációs sáv
+- dokumentum készítés!!! régi doksi kitöltés eltakarít
+- maximum egy darab főtevékenység lehet
+- módosítás kérése / javaslat gomb és megjegyzés az elfogadás fölé
+- mentés rendszer rework
+- köszönö screen ha sikeresen submitelt
+- token a ügyvédi irodáknak (iroda választás?)

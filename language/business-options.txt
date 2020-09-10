@@ -1,0 +1,615 @@
+0111 Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése
+0112 Rizstermesztés
+0113 Zöldségféle, dinnye, gyökér-, gumósnövény termesztése
+0114 Cukornádtermesztés
+0115 Dohánytermesztés
+0116 Rostnövénytermesztés
+0119 Egyéb, nem évelő növény termesztése
+0121 Szőlőtermesztés
+0122 Trópusi gyümölcs termesztése
+0123 Citrusféle termesztése
+0124 Almatermésű, csonthéjas termesztése
+0125 Egyéb gyümölcs, héjastermésű termesztése
+0126 Olajtartalmú gyümölcs termesztése
+0127 Italgyártási növény termesztése
+0128 Fűszer-, aroma-, narkotikus, gyógynövény termesztése
+0129 Egyéb évelő növény termesztése
+0130 Növényi szaporítóanyag termesztése
+0141 Tejhasznú szarvasmarha tenyésztése
+0142 Egyéb szarvasmarha tenyésztése
+0143 Ló, lóféle tenyésztése
+0144 Teve, teveféle tenyésztése
+0145 Juh, kecske tenyésztése
+0146 Sertéstenyésztés
+0147 Baromfitenyésztés
+0149 Egyéb állat tenyésztése
+0150 Vegyes gazdálkodás
+0161 Növénytermesztési szolgáltatás
+0162 Állattenyésztési szolgáltatás
+0163 Betakarítást követő szolgáltatás
+0164 Vetési célú magfeldolgozás
+0170 Vadgazdálkodás, vadgazdálkodási szolgáltatás
+0210 Erdészeti, egyéb erdőgazdálkodási tevékenység
+0220 Fakitermelés
+0230 Vadon termő egyéb erdei termék gyűjtése
+0240 Erdészeti szolgáltatás
+0311 Tengeri halászat
+0312 Édesvízi halászat
+0321 Tengerihal-gazdálkodás
+0322 Édesvízihal-gazdálkodás
+0510 Feketeszén-bányászat
+0520 Barnaszén-, lignitbányászat
+0610 Kőolaj-kitermelés
+0620 Földgázkitermelés
+0710 Vasércbányászat
+0721 Urán-, tóriumérc-bányászat
+0729 Színesfém érc bányászata
+0811 Kőfejtés, gipsz, kréta bányászata
+0812 Kavics-, homok-, agyagbányászat
+0891 Vegyi ásvány bányászata
+0892 Tőzegkitermelés
+0893 Sókitermelés
+0899 Egyéb m.n.s. bányászat
+0910 Kőolaj-, földgáz-kitermelési szolgáltatás
+0990 Egyéb bányászati szolgáltatás
+1011 Húsfeldolgozás, -tartósítás
+1012 Baromfihús feldolgozása, tartósítása
+1013 Hús-, baromfihús-készítmény gyártása
+1020 Halfeldolgozás, -tartósítás
+1031 Burgonyafeldolgozás, -tartósítás
+1032 Gyümölcs-, zöldséglé gyártása
+1039 Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás
+1041 Olaj gyártása
+1042 Margarin gyártása
+1051 Tejtermék gyártása
+1052 Jégkrém gyártása
+1061 Malomipari termék gyártása
+1062 Keményítő, keményítőtermék gyártása
+1071 Kenyér; friss pékáru gyártása
+1072 Tartósított lisztes áru gyártása
+1073 Tésztafélék gyártása
+1081 Cukorgyártás
+1082 Édesség gyártása
+1083 Tea, kávé feldolgozása
+1084 Fűszer, ételízesítő gyártása
+1085 Készétel gyártása
+1086 Homogenizált, diétás étel gyártása
+1089 M.n.s. egyéb élelmiszer gyártása
+1091 Haszonállat-eledel gyártása
+1092 Hobbiállat-eledel gyártása
+1101 Desztillált szeszes ital gyártása
+1102 Szőlőbor termelése
+1103 Gyümölcsbor termelése
+1104 Egyéb nem desztillált, erjesztett ital gyártása
+1105 Sörgyártás
+1106 Malátagyártás
+1107 Üdítőital, ásványvíz gyártása
+1200 Dohánytermék gyártása
+1310 Textilszálak fonása
+1320 Textilszövés
+1330 Textilkikészítés
+1391 Kötött, hurkolt kelme gyártása
+1392 Konfekcionált textiláru gyártása (kivéve: ruházat)
+1393 Szőnyeggyártás
+1394 Kötéláru gyártása
+1395 Nem szőtt textília és termék gyártása (kivéve: ruházat)
+1396 Műszaki textiláru gyártása
+1399 Egyéb textiláru gyártása m.n.s.
+1411 Bőrruházat gyártása
+1412 Munkaruházat gyártása
+1413 Felsőruházat gyártása (kivéve: munkaruházat)
+1414 Alsóruházat gyártása
+1419 Egyéb ruházat, kiegészítők gyártása
+1420 Szőrmecikk gyártása
+1431 Kötött, hurkolt harisnyafélék gyártása
+1439 Egyéb kötött, hurkolt ruházati termék gyártása
+1511 Bőr, szőrme kikészítése
+1512 Táskafélék, szíjazat gyártása
+1520 Lábbeligyártás
+1610 Fűrészárugyártás
+1621 Falemezgyártás
+1622 Parkettagyártás
+1623 Épületasztalos-ipari termék gyártása
+1624 Tároló fatermék gyártása
+1629 Egyéb fa-, parafatermék, fonottáru gyártása
+1711 Papíripari rostanyag gyártása
+1712 Papírgyártás
+1721 Papír csomagolóeszköz gyártása
+1722 Háztartási, egészségügyi papírtermék gyártása
+1723 Irodai papíráru gyártása
+1724 Tapétagyártás
+1729 Egyéb papír-, kartontermék gyártása
+1811 Napilapnyomás
+1812 Nyomás (kivéve: napilap)
+1813 Nyomdai előkészítő tevékenység
+1814 Könyvkötés, kapcsolódó szolgáltatás
+1820 Egyéb sokszorosítás
+1910 Kokszgyártás
+1920 Kőolaj-feldolgozás
+2011 Ipari gáz gyártása
+2012 Színezék, pigment gyártása
+2013 Szervetlen vegyi alapanyag gyártása
+2014 Szerves vegyi alapanyag gyártása
+2015 Műtrágya, nitrogénvegyület gyártása
+2016 Műanyag-alapanyag gyártása
+2017 Szintetikus kaucsuk alapanyag gyártása
+2020 Mezőgazdasági vegyi termék gyártása
+2030 Festék, bevonóanyag gyártása
+2041 Tisztítószer gyártása
+2042 Testápolási cikk gyártása
+2051 Robbanóanyag gyártása
+2052 Ragasztószergyártás
+2053 Illóolajgyártás
+2059 M.n.s. egyéb vegyi termék gyártása
+2060 Vegyi szál gyártása
+2110 Gyógyszeralapanyag-gyártás
+2120 Gyógyszerkészítmény gyártása
+2211 Gumiabroncs, gumitömlő gyártása
+2219 Egyéb gumitermék gyártása
+2221 Műanyag lap, lemez, fólia, cső, profil gyártása
+2222 Műanyag csomagolóeszköz gyártása
+2223 Műanyag építőanyag gyártása
+2229 Egyéb műanyag termék gyártása
+2311 Síküveggyártás
+2312 Síküveg továbbfeldolgozása
+2313 Öblösüveggyártás
+2314 Üvegszálgyártás
+2319 Műszaki, egyéb üvegtermék gyártása
+2320 Tűzálló termék gyártása
+2331 Kerámiacsempe, -lap gyártása
+2332 Égetett agyag építőanyag gyártása
+2341 Háztartási kerámia gyártása
+2342 Egészségügyi kerámia gyártása
+2343 Kerámia szigetelő gyártása
+2344 Műszaki kerámia gyártása
+2349 Egyéb kerámiatermék gyártása
+2351 Cementgyártás
+2352 Mész-, gipszgyártás
+2361 Építési betontermék gyártása
+2362 Építési gipsztermék gyártása
+2363 Előre kevert beton gyártása
+2364 Habarcsgyártás
+2365 Szálerősítésű cement gyártása
+2369 Egyéb beton-, gipsz-, cementtermék gyártása
+2370 Kőmegmunkálás
+2391 Csiszolótermék gyártása
+2399 M.n.s. egyéb nemfém ásványi termék gyártása
+2410 Vas-, acél-, vasötvözet-alapanyag gyártása
+2420 Acélcsőgyártás
+2431 Hidegen húzott acélrúd gyártása
+2432 Hidegen hengerelt keskeny acélszalag gyártása
+2433 Hidegen hajlított acélidom gyártása
+2434 Hidegen húzott acélhuzal gyártása
+2441 Nemesfémgyártás
+2442 Alumíniumgyártás
+2443 Ólom, cink, ón gyártása
+2444 Rézgyártás
+2445 Egyéb nem vas fém gyártása
+2446 Nukleáris fűtőanyag gyártása
+2451 Vasöntés
+2452 Acélöntés
+2453 Könnyűfémöntés
+2454 Egyéb nem vas fém öntése
+2511 Fémszerkezet gyártása
+2512 Fém épületelem gyártása
+2521 Központi fűtési kazán, radiátor gyártása
+2529 Fémtartály gyártása
+2530 Gőzkazán gyártása
+2540 Fegyver-, lőszergyártás
+2550 Fémalakítás, porkohászat
+2561 Fémfelület-kezelés
+2562 Fémmegmunkálás
+2571 Evőeszköz gyártása
+2572 Lakat-, zárgyártás
+2573 Szerszámgyártás
+2591 Acél tárolóeszköz gyártása
+2592 Könnyűfém csomagolóeszköz gyártása
+2593 Huzaltermék gyártása
+2594 Kötőelem, csavar gyártása
+2599 M.n.s. egyéb fémfeldolgozási termék gyártása
+2611 Elektronikai alkatrész gyártása
+2612 Elektronikai áramköri kártya gyártása
+2620 Számítógép, perifériás egység gyártása
+2630 Híradás-technikai berendezés gyártása
+2640 Elektronikus fogyasztási cikk gyártása
+2651 Mérőműszergyártás
+2652 Óragyártás
+2660 Elektronikus orvosi berendezés gyártása
+2670 Optikai eszköz gyártása
+2680 Mágneses, optikai információhordozó gyártása
+2711 Villamos motor, áramfejlesztő gyártása
+2712 Áramelosztó, -szabályozó készülék gyártása
+2720 Akkumulátor, szárazelem gyártása
+2731 Száloptikai kábel gyártása
+2732 Egyéb elektronikus, villamos vezeték, kábel gyártása
+2733 Szerelvény gyártása
+2740 Villamos világítóeszköz gyártása
+2751 Háztartási villamos készülék gyártása
+2752 Nem villamos háztartási készülék gyártása
+2790 Egyéb villamos berendezés gyártása
+2811 Motor, turbina gyártása (kivéve: légi-, közútijármű-motor)
+2812 Hidraulikus, pneumatikus berendezés gyártása
+2813 Egyéb szivattyú, kompresszor gyártása
+2814 Csap, szelep gyártása
+2815 Csapágy, erőátviteli elem gyártása
+2821 Fűtőberendezés, kemence gyártása
+2822 Emelő-, anyagmozgató gép gyártása
+2823 Irodagép gyártása (kivéve: számítógép és perifériái)
+2824 Gépi meghajtású hordozható kézi szerszámgép gyártása
+2825 Nem háztartási hűtő, légállapot-szabályozó gyártása
+2829 M.n.s. egyéb általános rendeltetésű gép gyártása
+2830 Mezőgazdasági, erdészeti gép gyártása
+2841 Fémmegmunkáló szerszámgép gyártása
+2849 Egyéb szerszámgép gyártása
+2891 Kohászati gép gyártása
+2892 Bányászati, építőipari gép gyártása
+2893 Élelmiszer-, dohányipari gép gyártása
+2894 Textil-, ruházati, bőripari gép gyártása
+2895 Papíripari gép gyártása
+2896 Műanyag-, gumifeldolgozó gép gyártása
+2899 M.n.s. egyéb speciális gép gyártása
+2910 Közúti gépjármű gyártása
+2920 Gépjármű-karosszéria, pótkocsi gyártása
+2931 Járművillamossági, -elektronikai készülékek gyártása
+2932 Közúti jármű, járműmotor alkatrészeinek gyártása
+3011 Hajógyártás
+3012 Szabadidő-, sporthajó gyártása
+3020 Vasúti, kötöttpályás jármű gyártása
+3030 Légi, űrjármű gyártása
+3040 Katonai harcjármű gyártása
+3091 Motorkerékpár gyártása
+3092 Kerékpár, mozgássérültkocsi gyártása
+3099 M.n.s. egyéb jármű gyártása
+3101 Irodabútor gyártása
+3102 Konyhabútorgyártás
+3103 Ágybetét gyártása
+3109 Egyéb bútor gyártása
+3211 Érmegyártás
+3212 Ékszergyártás
+3213 Divatékszer gyártása
+3220 Hangszergyártás
+3230 Sportszergyártás
+3240 Játékgyártás
+3250 Orvosi eszköz gyártása
+3291 Seprű-, kefegyártás
+3299 Egyéb m.n.s feldolgozóipari tevékenység
+3311 Fémfeldolgozási termék javítása
+3312 Ipari gép, berendezés javítása
+3313 Elektronikus, optikai eszköz javítása
+3314 Ipari villamos gép, berendezés javítása
+3315 Hajó, csónak javítása
+3316 Repülőgép, űrhajó javítása
+3317 Egyéb közlekedési eszköz javítása
+3319 Egyéb ipari eszköz javítása
+3320 Ipari gép, berendezés üzembe helyezése
+3511 Villamosenergia-termelés
+3512 Villamosenergia-szállítás
+3513 Villamosenergia-elosztás
+3514 Villamosenergia-kereskedelem
+3521 Gázgyártás
+3522 Gázelosztás
+3523 Gázkereskedelem
+3530 Gőzellátás, légkondicionálás
+3600 Víztermelés, -kezelés, -ellátás
+3700 Szennyvíz gyűjtése, kezelése
+3811 Nem veszélyes hulladék gyűjtése
+3812 Veszélyes hulladék gyűjtése
+3821 Nem veszélyes hulladék kezelése, ártalmatlanítása
+3822 Veszélyes hulladék kezelése, ártalmatlanítása
+3831 Használt eszköz bontása
+3832 Hulladék újrahasznosítása
+3900 Szennyeződésmentesítés, egyéb hulladékkezelés
+4110 Épületépítési projekt szervezése
+4120 Lakó- és nem lakó épület építése
+4211 Út, autópálya építése
+4212 Vasút építése
+4213 Híd, alagút építése
+4221 Folyadék szállítására szolgáló közmű építése
+4222 Elektromos, híradás-technikai célú közmű építése
+4291 Vízi létesítmény építése
+4299 Egyéb m.n.s. építés
+4311 Bontás
+4312 Építési terület előkészítése
+4313 Talajmintavétel, próbafúrás
+4321 Villanyszerelés
+4322 Víz-, gáz-, fűtés-, légkondicionáló-szerelés
+4329 Egyéb épületgépészeti szerelés
+4331 Vakolás
+4332 Épületasztalos-szerkezet szerelése
+4333 Padló-, falburkolás
+4334 Festés, üvegezés
+4339 Egyéb befejező építés m.n.s.
+4391 Tetőfedés, tetőszerkezet-építés
+4399 Egyéb speciális szaképítés m.n.s.
+4511 Személygépjármű-, könnyűgépjármű-kereskedelem
+4519 Egyéb gépjármű-kereskedelem
+4520 Gépjárműjavítás, -karbantartás
+4531 Gépjárműalkatrész-nagykereskedelem
+4532 Gépjárműalkatrész-kiskereskedelem
+4540 Motorkerékpár, -alkatrész kereskedelme, javítása
+4611 Mezőgazdasági termék ügynöki nagykereskedelme
+4612 Alapanyag, üzemanyag ügynöki nagykereskedelme
+4613 Fa-, építési anyag ügynöki nagykereskedelme
+4614 Gép, hajó, repülőgép ügynöki nagykereskedelme
+4615 Bútor, háztartási áru, fémáru ügynöki nagykereskedelme
+4616 Textil, ruházat, lábbeli, bőráru ügynöki nagykereskedelme
+4617 Élelmiszer, ital, dohányáru ügynöki nagykereskedelme
+4618 Egyéb termék ügynöki nagykereskedelme
+4619 Vegyes termékkörű ügynöki nagykereskedelem
+4621 Gabona, dohány, vetőmag, takarmány nagykereskedelme
+4622 Dísznövény nagykereskedelme
+4623 Élőállat nagykereskedelme
+4624 Bőr nagykereskedelme
+4631 Zöldség-, gyümölcs-nagykereskedelem
+4632 Hús-, húskészítmény nagykereskedelme
+4633 Tejtermék, tojás, zsiradék nagykereskedelme
+4634 Ital nagykereskedelme
+4635 Dohányáru nagykereskedelme
+4636 Cukor, édesség nagykereskedelme
+4637 Kávé-, tea-, kakaó-, fűszer-nagykereskedelem
+4638 Egyéb élelmiszer nagykereskedelme
+4639 Élelmiszer, ital, dohányáru vegyes nagykereskedelme
+4641 Textil-nagykereskedelem
+4642 Ruházat, lábbeli nagykereskedelme
+4643 Elektronikus háztartási cikk nagykereskedelme
+4644 Porcelán-, üvegáru-, tisztítószer-nagykereskedelem
+4645 Illatszer nagykereskedelme
+4646 Gyógyszer, gyógyászati termék nagykereskedelme
+4647 Bútor, szőnyeg, világítóberendezés nagykereskedelme
+4648 Óra-, ékszer-nagykereskedelem
+4649 Egyéb háztartási cikk nagykereskedelme m.n.s.
+4651 Számítógép, periféria, szoftver nagykereskedelme
+4652 Elektronikus, híradás-technikai berendezés és alkatrészei nagykereskedelme
+4661 Mezőgazdasági gép, berendezés nagykereskedelme
+4662 Szerszámgép-nagykereskedelem
+4663 Bányászati-, építőipari gép nagykereskedelme
+4664 Textilipari gép, varró-, kötőgép nagykereskedelme
+4665 Irodabútor-nagykereskedelem
+4666 Egyéb irodagép, -berendezés nagykereskedelme
+4669 Egyéb m.n.s. gép, berendezés nagykereskedelme
+4671 Üzem-, tüzelőanyag nagykereskedelme
+4672 Fém-, érc-nagykereskedelem
+4673 Fa-, építőanyag-, szaniteráru-nagykereskedelem
+4674 Fémáru, szerelvény, fűtési berendezés nagykereskedelme
+4675 Vegyi áru nagykereskedelme
+4676 Egyéb termelési célú termék nagykereskedelme
+4677 Hulladék-nagykereskedelem
+4690 Vegyestermékkörű nagykereskedelem
+4711 Élelmiszer jellegű bolti vegyes kiskereskedelem
+4719 Iparcikk jellegű bolti vegyes kiskereskedelem
+4721 Zöldség, gyümölcs kiskereskedelme
+4722 Hús-, húsáru kiskereskedelme
+4723 Hal kiskereskedelme
+4724 Kenyér-, pékáru-, édesség-kiskereskedelem
+4725 Ital-kiskereskedelem
+4726 Dohányáru-kiskereskedelem
+4729 Egyéb élelmiszer-kiskereskedelem
+4730 Gépjárműüzemanyag-kiskereskedelem
+4741 Számítógép, periféria, szoftver kiskereskedelme
+4742 Telekommunikációs termék kiskereskedelme
+4743 Audio-, videoberendezés kiskereskedelme
+4751 Textil-kiskereskedelem
+4752 Vasáru-, festék-, üveg-kiskereskedelem
+4753 Takaró, szőnyeg, fal-, padlóburkoló kiskereskedelme
+4754 Villamos háztartási készülék kiskereskedelme
+4759 Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme
+4761 Könyv-kiskereskedelem
+4762 Újság-, papíráru-kiskereskedelem
+4763 Zene-, videofelvétel kiskereskedelme
+4764 Sportszer-kiskereskedelem
+4765 Játék-kiskereskedelem
+4771 Ruházat kiskereskedelem (Szakosodott kiskereskedelem)
+4772 Lábbeli-, bőráru-kiskereskedelem (Szakosodott kiskereskedelem)
+4773 Gyógyszer-kiskereskedelem (Szakosodott kiskereskedelem)
+4774 Gyógyászati termék kiskereskedelme (Szakosodott kiskereskedelem)
+4775 Illatszer-kiskereskedelem (Szakosodott kiskereskedelem)
+4776 Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme (Szakosodott kiskereskedelem)
+4777 Óra-, ékszer-kiskereskedelem (Szakosodott kiskereskedelem)
+4778 Egyéb m.n.s. új áru kiskereskedelme (Szakosodott kiskereskedelem)
+4779 Használtcikk bolti kiskereskedelme
+4781 Élelmiszer, ital, dohányáru piaci kiskereskedelme
+4782 Textil, ruházat, lábbeli piaci kiskereskedelme
+4789 Egyéb áruk piaci kiskereskedelme
+4791 Csomagküldő, internetes kiskereskedelem
+4799 Egyéb nem bolti, piaci kiskereskedelem
+4910 Helyközi vasúti személyszállítás
+4920 Vasúti áruszállítás
+4931 Városi, elővárosi szárazföldi személyszállítás
+4932 Taxis személyszállítás
+4939 M.n.s. egyéb szárazföldi személyszállítás
+4941 Közúti áruszállítás
+4942 Költöztetés
+4950 Csővezetékes szállítás
+5010 Tengeri személyszállítás
+5020 Tengeri áruszállítás
+5030 Belvízi személyszállítás
+5040 Belvízi áruszállítás
+5110 Légi személyszállítás
+5121 Légi áruszállítás
+5122 Űrszállítás
+5210 Raktározás, tárolás
+5221 Szárazföldi szállítást kiegészítő szolgáltatás
+5222 Vízi szállítást kiegészítő szolgáltatás
+5223 Légi szállítást kiegészítő szolgáltatás
+5224 Rakománykezelés
+5229 Egyéb szállítást kiegészítő szolgáltatás
+5310 Postai tevékenység (egyetemes kötelezettséggel)
+5320 Egyéb postai, futárpostai tevékenység
+5510 Szállodai szolgáltatás
+5520 Üdülési, egyéb átmeneti szálláshely-szolgáltatás
+5530 Kempingszolgáltatás
+5590 Egyéb szálláshely-szolgáltatás
+5610 Éttermi, mozgó vendéglátás
+5621 Rendezvényi étkeztetés
+5629 Egyéb vendéglátás
+5630 Italszolgáltatás
+5811 Könyvkiadás
+5812 Címtárak, levelezőjegyzékek kiadása
+5813 Napilapkiadás
+5814 Folyóirat, időszaki kiadvány kiadása
+5819 Egyéb kiadói tevékenység
+5821 Számítógépes játék kiadása
+5829 Egyéb szoftverkiadás
+5911 Film-, video-, televízióműsor-gyártás
+5912 Film-, videogyártás, televíziós műsorfelvétel utómunkálatai
+5913 Film-, video- és televízióprogram terjesztése
+5914 Filmvetítés
+5920 Hangfelvétel készítése, kiadása
+6010 Rádióműsor-szolgáltatás
+6020 Televízióműsor összeállítása, szolgáltatása
+6110 Vezetékes távközlés
+6120 Vezeték nélküli távközlés
+6130 Műholdas távközlés
+6190 Egyéb távközlés
+6201 Számítógépes programozás
+6202 Információ-technológiai szaktanácsadás
+6203 Számítógép-üzemeltetés
+6209 Egyéb információ-technológiai szolgáltatás
+6311 Adatfeldolgozás, web-hoszting szolgáltatás
+6312 Világháló-portál szolgáltatás
+6391 Hírügynökségi tevékenység
+6399 M.n.s. egyéb információs szolgáltatás
+6411 Jegybanki tevékenység
+6419 Egyéb monetáris közvetítés
+6420 Vagyonkezelés (holding)
+6430 Befektetési alapok és hasonlók
+6491 Pénzügyi lízing
+6492 Egyéb hitelnyújtás
+6499 M.n.s. egyéb pénzügyi közvetítés
+6511 Életbiztosítás
+6512 Nem életbiztosítás
+6520 Viszontbiztosítás
+6530 Nyugdíjalapok
+6611 Pénz-, tőkepiac igazgatása
+6612 Értékpapír-, árutőzsdei ügynöki tevékenység
+6619 Egyéb pénzügyi kiegészítő tevékenység
+6621 Kockázatértékelés, kárszakértés
+6622 Biztosítási ügynöki, brókeri tevékenység
+6629 Biztosítás, nyugdíjalap egyéb kiegészítő tevékenysége
+6630 Alapkezelés
+6810 Saját tulajdonú ingatlan adásvétele
+6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése
+6831 Ingatlanügynöki tevékenység
+6832 Ingatlankezelés
+6910 Jogi tevékenység
+6920 Számviteli, könyvvizsgálói, adószakértői tevékenység
+7010 Üzletvezetés
+7021 PR, kommunikáció
+7022 Üzletviteli, egyéb vezetési tanácsadás
+7111 Építészmérnöki tevékenység
+7112 Mérnöki tevékenység, műszaki tanácsadás
+7120 Műszaki vizsgálat, elemzés
+7211 Biotechnológiai kutatás, fejlesztés
+7219 Egyéb természettudományi, műszaki kutatás, fejlesztés
+7220 Társadalomtudományi, humán kutatás, fejlesztés
+7311 Reklámügynöki tevékenység
+7312 Médiareklám
+7320 Piac-, közvélemény-kutatás
+7410 Divat-, formatervezés
+7420 Fényképészet
+7430 Fordítás, tolmácsolás
+7490 M.n.s. egyéb szakmai, tudományos, műszaki tevékenység
+7500 Állat-egészségügyi ellátás
+7711 Személygépjármű kölcsönzése
+7712 Gépjárműkölcsönzés (3,5 tonna fölött)
+7721 Szabadidős, sporteszköz kölcsönzése
+7722 Videokazetta, lemez kölcsönzése
+7729 Egyéb személyi használatú, háztartási cikk kölcsönzése
+7731 Mezőgazdasági gép kölcsönzése
+7732 Építőipari gép kölcsönzése
+7733 Irodagép kölcsönzése (beleértve: számítógép)
+7734 Vízi szállítóeszköz kölcsönzése
+7735 Légi szállítóeszköz kölcsönzése
+7739 Egyéb gép, tárgyi eszköz kölcsönzése
+7740 Immateriális javak kölcsönzése
+7810 Munkaközvetítés
+7820 Munkaerőkölcsönzés
+7830 Egyéb emberierőforrás-ellátás, -gazdálkodás
+7911 Utazásközvetítés
+7912 Utazásszervezés
+7990 Egyéb foglalás
+8010 Személybiztonsági tevékenység
+8020 Biztonsági rendszer szolgáltatás
+8030 Nyomozás
+8110 Építményüzemeltetés
+8121 Általános épülettakarítás
+8122 Egyéb épület-, ipari takarítás
+8129 Egyéb takarítás
+8130 Zöldterület-kezelés
+8211 Összetett adminisztratív szolgáltatás
+8219 Fénymásolás, egyéb irodai szolgáltatás
+8220 Telefoninformáció
+8230 Konferencia, kereskedelmi bemutató szervezése
+8291 Követelésbehajtás
+8292 Csomagolás
+8299 M.n.s. egyéb kiegészítő üzleti szolgáltatás
+8411 Általános közigazgatás
+8412 Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása
+8413 Üzleti élet szabályozása, hatékonyságának ösztönzése
+8421 Külügyek
+8422 Honvédelem
+8423 Igazságügy, bíróság
+8424 Közbiztonság, közrend
+8425 Tűzvédelem
+8430 Kötelező társadalombiztosítás
+8510 Iskolai előkészítő oktatás
+8520 Alapfokú oktatás
+8531 Általános középfokú oktatás
+8532 Szakmai középfokú oktatás
+8541 Felső szintű, nem felsőfokú oktatás
+8542 Felsőfokú oktatás
+8551 Sport, szabadidős képzés
+8552 Kulturális képzés
+8553 Járművezető-oktatás
+8559 M.n.s. egyéb oktatás
+8560 Oktatást kiegészítő tevékenység
+8610 Fekvőbeteg-ellátás
+8621 Általános járóbeteg-ellátás
+8622 Szakorvosi járóbeteg-ellátás
+8623 Fogorvosi járóbeteg-ellátás
+8690 Egyéb humán-egészségügyi ellátás
+8710 Bentlakásos, nem kórházi ápolás
+8720 Mentális, szenvedélybeteg bentlakásos ellátása
+8730 Idősek, fogyatékosok bentlakásos ellátása
+8790 Egyéb bentlakásos ellátás
+8810 Idősek, fogyatékosok szociális ellátása bentlakás nélkül
+8891 Gyermekek napközbeni ellátása
+8899 M.n.s. egyéb szociális ellátás bentlakás nélkül
+9001 Előadó-művészet
+9002 Előadó-művészetet kiegészítő tevékenység
+9003 Alkotóművészet
+9004 Művészeti létesítmények működtetése
+9101 Könyvtári, levéltári tevékenység
+9102 Múzeumi tevékenység
+9103 Történelmi hely, építmény, egyéb látványosság működtetése
+9104 Növény-, állatkert, természetvédelmi terület működtetése
+9200 Szerencsejáték, fogadás
+9311 Sportlétesítmény működtetése
+9312 Sportegyesületi tevékenység
+9313 Testedzési szolgáltatás
+9319 Egyéb sporttevékenység
+9321 Vidámparki, szórakoztatóparki tevékenység
+9329 M.n.s. egyéb szórakoztatás, szabadidős tevékenység
+9411 Vállalkozói, munkaadói érdekképviselet
+9412 Szakmai érdekképviselet
+9420 Szakszervezeti tevékenység
+9491 Egyházi tevékenység
+9492 Politikai tevékenység
+9499 M.n.s. egyéb közösségi, társadalmi tevékenység
+9511 Számítógép, -periféria javítása
+9512 Kommunikációs eszköz javítása
+9521 Szórakoztatóelektronikai cikk javítása
+9522 Háztartási gép, háztartási, kerti eszköz javítása
+9523 Lábbeli, egyéb bőráru javítása
+9524 Bútor, lakberendezési tárgy javítása
+9525 Óra-, ékszerjavítás
+9529 Egyéb személyi, háztartási cikk javítása
+9601 Textil, szőrme mosása, tisztítása
+9602 Fodrászat, szépségápolás
+9603 Temetkezés, temetkezést kiegészítő szolgáltatás
+9604 Fizikai közérzetet javító szolgáltatás
+9609 M.n.s. egyéb személyi szolgáltatás
+9700 Háztartási alkalmazottat foglalkoztató magánháztartás
+9810 Háztartás termék-előállítása, szolgáltatása saját fogyasztásra
+9820 Háztartás szolgáltatása saját fogyasztásra
+9900 Területen kívüli szervezet
